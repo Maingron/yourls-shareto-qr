@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Share as QR Code: quickshare
-Plugin URI: http://yourls.org/
+Plugin URI: https://github.com/Maingron/yourls-shareto-qr
 Description: Add QR Code to the list of Quick Share destinations
 Version: 1.0
 Author: Maingron
