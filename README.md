@@ -10,3 +10,8 @@ Activate in "manage plugins"
 It will be added under admin interface -> share button ("Quick Share") next to Facebook and other sharing options.
 
 Thank you to [Peter Ryan Berbec](https://havetechwilltravel.nyc/) for the original "Mailto: quickshare" plugin, which this is based on.
+
+## Screenshots
+![](screenshots/screenshot-yourls.png)
+
+![](screenshots/screenshot-sleeky.png)
