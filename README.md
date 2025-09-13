@@ -1,6 +1,13 @@
 # yourls-shareto-qr
 ![logo](logo.png)
 
+> **Replaced by the following plugin, which also includes more features:**  
+> [Maingron/yourls-shareto-configurable](https://github.com/Maingron/yourls-shareto-configurable)  
+> This plugin is no longer maintained, since I now have developed an improved version with more features.
+> Please use the new plugin for improved features and support.
+>  
+> **All** existing features of this plugin are also included in the new plugin.
+
 Plugin for [YOURLS](http://yourls.org) that implements a simple QR code display for the url list quick sharing
 
 Place in /user/plugins/shareto-qr
